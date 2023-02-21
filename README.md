@@ -8,3 +8,5 @@
 🧑‍🤝‍🧑 I like to work in team, and learn new things from others.
 💻 Degree in microcomputer systems and networks
 ```
+
+## **LENGUAGES I AM LEARNING**
