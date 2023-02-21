@@ -3,6 +3,12 @@
 ![](https://i.ibb.co/WH8DLrF/image-header.gif)
 ---
 
+### ABOUT ME
+```
+My first experience with "programming" was in a medium grade, with very basic concepts.
+Today I am learning a lot from the great world of programming and the very interesting things to learn from.
+I am a creative person who likes to contribute the maximum of himself, organized and with goals and dreams to fulfill.
+```
 ```
 📕 I’m currently learning Web Aplication Developement Intensive in CIFP FB Borja Moll.
 🧑‍🤝‍🧑 I like to work in team, and learn new things from others.
@@ -19,3 +25,12 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FCF5D8?style=for-the-badge&logo=javascript&logoColor=yellow)
+
+### CONTACT ME
+
+
+
+
+
+
+![Profile views](https://gpvc.arturio.dev/FranN2442)
