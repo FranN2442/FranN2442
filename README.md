@@ -5,7 +5,7 @@
 
 ### ABOUT ME
 ```
-My first experience with "programming" was in a medium grade, with very basic concepts.
+My first experience "programming" was in a medium grade, with very basic concepts.
 Today I am learning a lot from the great world of programming and the very interesting things to learn from.
 I am a creative person who likes to contribute the maximum of himself, organized and with goals and dreams to fulfill.
 ```
