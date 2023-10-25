@@ -10,7 +10,7 @@ Today I am learning a lot from the great world of programming and the very inter
 I am a creative person who likes to contribute the maximum of himself, organized and with goals and dreams to fulfill.
 ```
 ```
-📕 I’m currently learning Web Aplication Developement Intensive in CIFP FB Borja Moll.
+📕 I’m currently learning Web Aplication Developement in CIFP FB Borja Moll.
 🧑‍🤝‍🧑 I like to work in team, and learn new things from others.
 💻 Degree in microcomputer systems and networks
 ```
