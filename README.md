@@ -31,6 +31,3 @@ I am a creative person who likes to contribute the maximum of himself, organized
 📧 Personal: 20fran04@gmail.com
 📧 Student:  fgonzalezviejo@cifpfbmoll.eu
 ```
-
-
-![Profile views](https://gpvc.arturio.dev/FranN2442)
